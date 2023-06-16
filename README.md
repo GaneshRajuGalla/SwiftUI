@@ -19,3 +19,10 @@ ScrollTransition
 
 https://github.com/GaneshRajuGalla/SwiftUI-Daily-Dose/assets/61533653/dcf39f6b-8389-4cf9-8f0d-77afc9a23668
 
+
+ScrollTransition
+
+https://github.com/GaneshRajuGalla/SwiftUI-Daily-Dose/assets/61533653/0c86f4fa-08c0-4948-a133-313845cb4bc5
+
+
+
