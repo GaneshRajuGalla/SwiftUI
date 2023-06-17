@@ -39,6 +39,8 @@ https://github.com/GaneshRajuGalla/SwiftUI-Daily-Dose/assets/61533653/126c10f3-9
 AnimationIndicator
 
 
+
+
 https://github.com/GaneshRajuGalla/SwiftUI-Daily/assets/61533653/9583f7a4-225b-44ea-962a-826437f6258c
 
 OvalShape
@@ -46,5 +48,12 @@ OvalShape
 
 
 https://github.com/GaneshRajuGalla/SwiftUI-Daily/assets/61533653/7a9a2bca-75fa-4c8f-8553-8e443ea93487
+
+CustomTabBar
+
+
+
+https://github.com/GaneshRajuGalla/SwiftUI-Daily/assets/61533653/aac24331-1738-4f0b-8f7e-92a1d3a5404f
+
 
 
