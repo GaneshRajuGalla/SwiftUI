@@ -24,5 +24,12 @@ ScrollTransition
 
 https://github.com/GaneshRajuGalla/SwiftUI-Daily-Dose/assets/61533653/0c86f4fa-08c0-4948-a133-313845cb4bc5
 
+rotationEffect
+
+
+https://github.com/GaneshRajuGalla/SwiftUI-Daily-Dose/assets/61533653/3e16d6d6-1a74-4f2d-9993-a13e22c9b2e7
+
+
+
 
 
