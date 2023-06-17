@@ -56,4 +56,9 @@ CustomTabBar
 https://github.com/GaneshRajuGalla/SwiftUI-Daily/assets/61533653/aac24331-1738-4f0b-8f7e-92a1d3a5404f
 
 
+Timelapse
+
+
+https://github.com/GaneshRajuGalla/SwiftUI-Daily/assets/61533653/75854470-4265-41bc-88fa-96a9f041c5d8
+
 
