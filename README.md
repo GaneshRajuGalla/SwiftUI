@@ -61,6 +61,13 @@ Timelapse
 
 https://github.com/GaneshRajuGalla/SwiftUI-Daily/assets/61533653/75854470-4265-41bc-88fa-96a9f041c5d8
 
+Clock
+
+
+
+https://github.com/GaneshRajuGalla/SwiftUI-Daily/assets/61533653/d97c2468-07e4-47d1-9f2e-7b4d854df69e
+
+
 
 
 
