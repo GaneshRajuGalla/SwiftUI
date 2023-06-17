@@ -36,5 +36,9 @@ MetalUI
 https://github.com/GaneshRajuGalla/SwiftUI-Daily-Dose/assets/61533653/126c10f3-969a-4b4f-a7ed-174ef573c7c8
 
 
+AnimationIndicator
+
+
+https://github.com/GaneshRajuGalla/SwiftUI-Daily/assets/61533653/9583f7a4-225b-44ea-962a-826437f6258c
 
 
