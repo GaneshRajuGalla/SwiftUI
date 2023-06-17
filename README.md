@@ -41,4 +41,10 @@ AnimationIndicator
 
 https://github.com/GaneshRajuGalla/SwiftUI-Daily/assets/61533653/9583f7a4-225b-44ea-962a-826437f6258c
 
+OvalShape
+
+
+
+https://github.com/GaneshRajuGalla/SwiftUI-Daily/assets/61533653/7a9a2bca-75fa-4c8f-8553-8e443ea93487
+
 
