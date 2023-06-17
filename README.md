@@ -61,7 +61,6 @@ Timelapse
 
 https://github.com/GaneshRajuGalla/SwiftUI-Daily/assets/61533653/75854470-4265-41bc-88fa-96a9f041c5d8
 
-# WeatherApp<img width="869" alt="Screenshot 2023-05-13 at 6 09 41 PM" src="https://github.com/GaneshRajuGalla/WeatherApp/assets/61533653/fe46f057-c2c0-4f51-a71a-6a76a679c069">
 
 
 
