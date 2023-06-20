@@ -79,5 +79,10 @@ ScrollViewPaging
 
 https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/45364bfb-ee24-4f29-a6da-05a92a8af9bf
 
+Shadow
+
+https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/1b13f198-ae74-4cf7-942f-c076d3e5c0c1
+
+
 
 
