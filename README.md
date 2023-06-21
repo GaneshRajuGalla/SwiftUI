@@ -83,6 +83,11 @@ Shadow
 
 https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/1b13f198-ae74-4cf7-942f-c076d3e5c0c1
 
+RandomColor
+
+
+https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/284da5b6-b655-4f98-b3fe-08bae4736bd4
+
 
 
 
