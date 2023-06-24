@@ -93,6 +93,13 @@ TextFieldAlert
 
 https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/90e5f116-6384-49e8-9c4a-4cf342736af7
 
+CustomSlider
+
+
+https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/950ce5a9-25f9-4e89-a9df-1832164c1918
+
+
+
 
 
 
