@@ -98,7 +98,13 @@ CustomSlider
 
 https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/950ce5a9-25f9-4e89-a9df-1832164c1918
 
+TabView
 
+
+
+
+
+https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/4ee8f18c-0b95-4423-8bec-bb1b9c4ee717
 
 
 
