@@ -118,6 +118,11 @@ https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/445a87ea-acf0-465a-b5
 
 
 
+ContentUnavilableView
+
+
+
+https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/b4ad0136-176a-40ec-b8be-1e284d0435cb
 
 
 
