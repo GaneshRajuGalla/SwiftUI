@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct Base64ImageView: View {
     let base64Image = base64
     
     var body: some View {
@@ -24,7 +24,7 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    Base64ImageView()
 }
 
 

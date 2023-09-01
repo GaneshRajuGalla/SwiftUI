@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  AnimationView.swift
 //  AnimationIndicator
 //
 //  Created by Ganesh on 10/06/23.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct AnimationIndicatorView: View {
     @State private var isAnimating = false
     var body: some View {
         Circle()
@@ -27,6 +27,6 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        AnimationIndicatorView()
     }
 }
