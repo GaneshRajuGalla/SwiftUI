@@ -139,7 +139,8 @@ TikTok
 https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/80520a29-a2a5-40d5-9b59-025f1dc5dcff
 
 
-
+FidgetSpinner
+![Simulator Screen Recording - iPhone 14 Pro - 2023-09-01 at 23 16 16](https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/7029638b-f8bd-4487-9a2b-77d4f4b06fba)
 
 
 
