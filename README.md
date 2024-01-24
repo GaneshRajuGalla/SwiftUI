@@ -142,6 +142,12 @@ https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/80520a29-a2a5-40d5-9b
 FidgetSpinner
 ![Simulator Screen Recording - iPhone 14 Pro - 2023-09-01 at 23 16 16](https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/7029638b-f8bd-4487-9a2b-77d4f4b06fba)
 
+CustomTab Bar
+
+![Simulator Screen Recording - iPhone 15 Pro - 2024-01-24 at 20 13 07](https://github.com/GaneshRajuGalla/SwiftUI/assets/61533653/2ffe21aa-748c-420c-b975-a55adb44b67c)
+
+
+
 
 
 
