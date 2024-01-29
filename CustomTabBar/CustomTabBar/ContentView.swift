@@ -53,80 +53,36 @@ struct ContentView: View {
         HStack(content: {
             Spacer()
             
-            Button(action: {
-                withAnimation {
-                    selectedTab = .home
-                }
-            }, label: {
-                VStack(alignment: .center, content: {
-                    Image(systemName: "homekit")
-                        .resizable()
-                        .scaledToFit()
-                        .frame(width: 22)
-                    if selectedTab == .home{
-                        Text("Home")
-                            .font(.system(size: 11))
-                    }
-                })
-            })
-            .foregroundStyle(selectedTab == .home ? Color.primary : Color.secondary)
+            // Home tab button
+            TabButton(type: .home,
+                      isSelected: selectedTab == .home) {
+                selectedTab = .home
+            }
+    
             Spacer()
             
-            Button(action: {
-                withAnimation {
-                    selectedTab = .search
-                }
-            }, label: {
-                VStack(alignment: .center, content: {
-                    Image(systemName: "sparkle.magnifyingglass")
-                        .resizable()
-                        .scaledToFit()
-                        .frame(width: 22)
-                    if selectedTab == .search{
-                        Text("Search")
-                            .font(.system(size: 11))
-                    }
-                })
-            })
-            .foregroundStyle(selectedTab == .search ? Color.primary : Color.secondary)
+            // Search tab button
+            TabButton(type: .search,
+                       isSelected: selectedTab == .search) {
+                selectedTab = .search
+            }
+            
             Spacer()
             
-            Button(action: {
-                withAnimation {
-                    selectedTab = .notifications
-                }
-            }, label: {
-                VStack(alignment: .center, content: {
-                    Image(systemName: "bell.badge.fill")
-                        .resizable()
-                        .scaledToFit()
-                        .frame(width: 22)
-                    if selectedTab == .notifications{
-                        Text("Notification")
-                            .font(.system(size: 11))
-                    }
-                })
-            })
-            .foregroundStyle(selectedTab == .notifications ? Color.primary : Color.secondary)
+            // Notifications tab button
+            TabButton(type: .notifications,
+                      isSelected: selectedTab == .notifications) {
+                selectedTab = .notifications
+            }
+    
             Spacer()
             
-            Button(action: {
-                withAnimation {
-                    selectedTab = .settings
-                }
-            }, label: {
-                VStack(alignment: .center, content: {
-                    Image(systemName: "gear.circle")
-                        .resizable()
-                        .scaledToFit()
-                        .frame(width: 22)
-                    if selectedTab == .settings{
-                        Text("Settings")
-                            .font(.system(size: 11))
-                    }
-                })
-            })
-            .foregroundStyle(selectedTab == .settings ? Color.primary : Color.secondary)
+            // Settings tab button
+            TabButton(type: .settings,
+                      isSelected: selectedTab == .settings) {
+                selectedTab = .settings
+            }
+            
             Spacer()
             
         })
@@ -134,8 +90,13 @@ struct ContentView: View {
         .frame(height: 72)
         .background {
             RoundedRectangle(cornerRadius: 36)
-                .fill(RadialGradient(gradient: Gradient(colors: [.blue, .black]), center: .center, startRadius: 2, endRadius: 350))
-                .shadow(color:Color.black.opacity(0.5), radius: 8, y:2)
+                .fill(RadialGradient(gradient: Gradient(colors: [.blue, .black]),
+                                     center: .center,
+                                     startRadius: 2,
+                                     endRadius: 350))
+                .shadow(color:Color.black.opacity(0.5),
+                        radius: 8,
+                        y:2)
         }
         .padding(.horizontal)
     }
@@ -163,19 +124,4 @@ struct Settings: View {
     var body: some View {
         Text("Settings")
     }
-}
-
-
-
-#Preview {
-    ContentView()
-        .preferredColorScheme(.dark)
-}
-
-
-enum Tab{
-    case home
-    case search
-    case notifications
-    case settings
 }

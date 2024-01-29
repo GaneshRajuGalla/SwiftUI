@@ -11,6 +11,8 @@
 		6E48772C2B614D6100023D9F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E48772B2B614D6100023D9F /* ContentView.swift */; };
 		6E48772E2B614D6300023D9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E48772D2B614D6300023D9F /* Assets.xcassets */; };
 		6E4877312B614D6300023D9F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E4877302B614D6300023D9F /* Preview Assets.xcassets */; };
+		C41DAEB62B67CF6D008B7037 /* TabButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41DAEB52B67CF6D008B7037 /* TabButton.swift */; };
+		C41DAEB82B67CFA3008B7037 /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41DAEB72B67CFA3008B7037 /* Enum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		6E48772B2B614D6100023D9F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6E48772D2B614D6300023D9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E4877302B614D6300023D9F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C41DAEB52B67CF6D008B7037 /* TabButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabButton.swift; sourceTree = "<group>"; };
+		C41DAEB72B67CFA3008B7037 /* Enum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				6E4877292B614D6100023D9F /* CustomTabBarApp.swift */,
 				6E48772B2B614D6100023D9F /* ContentView.swift */,
+				C41DAEB72B67CFA3008B7037 /* Enum.swift */,
+				C41DAEB52B67CF6D008B7037 /* TabButton.swift */,
 				6E48772D2B614D6300023D9F /* Assets.xcassets */,
 				6E48772F2B614D6300023D9F /* Preview Content */,
 			);
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C41DAEB62B67CF6D008B7037 /* TabButton.swift in Sources */,
 				6E48772C2B614D6100023D9F /* ContentView.swift in Sources */,
+				C41DAEB82B67CFA3008B7037 /* Enum.swift in Sources */,
 				6E48772A2B614D6100023D9F /* CustomTabBarApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
